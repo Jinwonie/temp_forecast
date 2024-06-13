@@ -7,11 +7,13 @@
 |![Coalb](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)|![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
 
 ## :people_holding_hands: 멤버구성 및 역할
-천진원(조장)
+[조장]
 
-김민근, 주현수, 허영민
+천진원
 
-: 전체 과정 함께 진행
+[조원]
+
+김현주, 심재은, 이승후
 
 ## :bulb: 기획 선정 및 배경
 한국교육개발원의 고교 졸업자의 대학진학률 현황 분석에 따르면 2021년 기준 한국의 대학 진학률은 등록자 기준 73.7%이고, 각 나이대별 취학률 또한 OECD 평균 보다 높은 수치를 기록하고 있습니다.
